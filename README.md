@@ -12,8 +12,9 @@ If you want to contact me for any reason you can use **one of my e-mails** or **
   - ✉️ adrian.kurek93@gmail.com
   - ✉️ kontakt@adriankurek.pl
 
+Some GitHub stats:
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artysta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **artysta/artysta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
