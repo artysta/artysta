@@ -3,7 +3,7 @@
 Welcome to my **GitHub profile** where you can check out some of my projects. These are not perfect, but I am still learning. 🙃
 
 Below you can find some URLs that may interest you:
-  - 📝 [artysta.github.io](https://artysta.github.io/) - just a **GitHub Page** containing my resume
+  - 📝 [artysta.github.io](https://artysta.github.io/) - **GitHub Page** containing my resume
   - 🌍 [adriankurek.pl](https://adriankurek.pl/) - my private website, where you can read some articles about programming languages & technologies - it is available only in Polish at the moment
   - ☁️ [trailblazer.me/id/adrian-kurek](https://trailblazer.me/id/adrian-kurek) - my Salesforce Trailhead profile
 
@@ -11,6 +11,10 @@ If you want to contact me for any reason you can use **one of my e-mails** or **
   - 🧑‍💼 [linkedin.com/in/adrian-kurek](https://www.linkedin.com/in/adrian-kurek/)
   - ✉️ adrian.kurek93@gmail.com
   - ✉️ kontakt@adriankurek.pl
+
+Some GitHub Statistics:
+
+[![Artysta's GitHub Statistics](https://artysta-cloud.vercel.app/api/github/statistics)](https://github.com/artysta/artysta-cloud)
 
 <!--
 **artysta/artysta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
