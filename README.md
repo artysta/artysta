@@ -12,7 +12,7 @@ If you want to contact me for any reason you can use **one of my e-mails** or **
   - ✉️ adrian.kurek93@gmail.com
   - ✉️ kontakt@adriankurek.pl
 
-Some GitHub Statistics:
+Some statistics:
 
 [![Artysta's GitHub Statistics](https://artysta-cloud.vercel.app/api/github/statistics?githubUser=artysta&duolingoUser=adrian_kurek&codewarsUser=artysta)](https://github.com/artysta/artysta-cloud)
 
