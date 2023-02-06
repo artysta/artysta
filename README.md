@@ -14,7 +14,7 @@ If you want to contact me for any reason you can use **one of my e-mails** or **
 
 Some GitHub Statistics:
 
-[![Artysta's GitHub Statistics](https://artysta-cloud.vercel.app/api/github/statistics?githubUser=artysta&codewarsUser=artysta)](https://github.com/artysta/artysta-cloud)
+[![Artysta's GitHub Statistics](https://artysta-cloud.vercel.app/api/github/statistics?githubUser=artysta&duolingoUser=adrian_kurek&codewarsUser=artysta)](https://github.com/artysta/artysta-cloud)
 
 <!--
 **artysta/artysta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
