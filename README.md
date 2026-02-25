@@ -1,16 +1,16 @@
-### Hi there! I am Adrian! 🫡
+### Howdy! I'm Adrian. 🫡
 
-Welcome to my **GitHub profile** where you can check out some of my projects. These are not perfect, but I am still learning. 🙃
+Welcome to my **GitHub profile**, where you can explore a selection of my projects. Most of them were built during my early learning journey and before widespread adoption of AI, so they may not be perfect.
 
 Below you can find some URLs that may interest you:
-  - 📝 [artysta.github.io](https://artysta.github.io/) - **GitHub Page** containing my resume
-  - 🌍 [adriankurek.pl](https://adriankurek.pl/) - my private website, where you can read some articles about programming languages & technologies - it is available only in Polish at the moment
-  - ☁️ [trailblazer.me/id/adrian-kurek](https://trailblazer.me/id/adrian-kurek) - my Salesforce Trailhead profile
+  - 🧑‍💼 [linkedin.com/in/adrian-kurek](https://www.linkedin.com/in/adrian-kurek/) - my LinkedIn profile
+  - 📝 [artysta.github.io](https://artysta.github.io/) - a **GitHub Page** containing my resume
+  - 🌍 [adriankurek.pl](https://adriankurek.pl/) - my private website where I used to post some articles on programming languages and technologies - posts are available only in Polish
+  - ☁️ [salesforce.com/trailblazer/adrian-kurek](https://www.salesforce.com/trailblazer/adrian-kurek) - my Salesforce Trailhead profile
 
-If you want to contact me for any reason you can use **one of my e-mails** or **LinkedIn profile**:
-  - 🧑‍💼 [linkedin.com/in/adrian-kurek](https://www.linkedin.com/in/adrian-kurek/)
+If you would like to get in touch, feel free to contact me via **LinkedIn** or **email**:
   - ✉️ adrian.kurek93@gmail.com
-  - ✉️ kontakt@adriankurek.pl
+  - ✉️ dev@adriankurek.pl
 
 Some statistics:
 
